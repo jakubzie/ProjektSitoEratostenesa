@@ -1,4 +1,4 @@
-# ProjektSitoEratostenesa
+# Projekt "Sito Eratostenesa" 
 Program "Sito Eratostenesa" to program napisany w języku C, którego zadaniem jest wyznaczanie liczb pierwszych w danym przedziale. Nazwa programu pochodzi od metody, jaką wykorzystuje, czyli Sita Eratostenesa.
 
 ## Jak działa program?
