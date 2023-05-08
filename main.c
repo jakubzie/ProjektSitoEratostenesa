@@ -94,18 +94,3 @@ int main() {
   }
     wybor = 0;
 }
-
-
-
-      /*for(int i=2;i<N+1;i++){
-        for (int j=i+1;j<N+1;j++){
-          if(j%i==0){
-            TAB[j]=1;
-          }
-        }
-      }
-      for(int i=2;i<=N;i++){
-        if(TAB[i]==0){
-          printf("%d, ",i);
-        }
-      }*/
